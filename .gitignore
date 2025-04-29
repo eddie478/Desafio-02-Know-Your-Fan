@@ -1,0 +1,30 @@
+# Node
+node_modules/
+dist/
+.vite/
+.env
+.env.local
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Editor
+.vscode/
+.idea/
+
+# Sistema
+.DS_Store
+Thumbs.db
+
+# Arquivos ZIP
+*.zip
+
+# Google Apps Script
+.clasp.json
+
+# Outras pastas temporárias
+coverage/
+temp/
+tmp/
+out/

@@ -1,0 +1,9 @@
+```plaintext
+vite
+react
+react-dom
+@vitejs/plugin-react
+tailwindcss
+postcss
+autoprefixer
+lucide-react
