@@ -17,9 +17,9 @@ Essa solução permite coletar informações dos fãs, integrando frontend moder
   - Compras realizadas
   - Redes sociais vinculadas
   - Perfil em sites de eSports
-- Upload de documentos (em futuras versões)
+- Upload de documentos 
 - Integração com **Google Sheets** para armazenamento automático dos dados.
-- Layout moderno inspirado na identidade visual da FURIA (preto, branco e roxo).
+- Layout moderno inspirado na identidade visual da FURIA.
 - Responsividade: Adaptado para desktop e mobile.
 
 ---
@@ -28,8 +28,8 @@ Essa solução permite coletar informações dos fãs, integrando frontend moder
 
 ### Frontend:
 - [Vite](https://vitejs.dev/) + [React.js](https://react.dev/)
-- [TailwindCSS](https://tailwindcss.com/) (para estilização)
-- [Poppins](https://fonts.google.com/specimen/Poppins) (fonte moderna)
+- [TailwindCSS](https://tailwindcss.com/) 
+- [Poppins](https://fonts.google.com/specimen/Poppins) 
 - Ícones Lucide
 
 ### Backend:
@@ -42,6 +42,6 @@ Essa solução permite coletar informações dos fãs, integrando frontend moder
 ### 1. Clonar o repositório
 
 ```bash
-git clone https://github.com/seu-usuario/know-your-fan-furia.git
+git clone https://github.com/eddie478/know-your-fan-furia.git
 
 
