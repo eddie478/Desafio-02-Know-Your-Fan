@@ -4,6 +4,7 @@ Feito Por Clayton
 
 Projeto desenvolvido para o desafio **"Know Your Fan"** da FURIA eSports.  
 Essa solução permite coletar informações dos fãs, integrando frontend moderno, Google Sheets para armazenamento e potencial expansão para APIs de redes sociais e IA de validação.
+Para rodar o Link só seguir os passos dos Backend e do Frontend
 
 ## ✨ Funcionalidades
 
@@ -31,9 +32,13 @@ Essa solução permite coletar informações dos fãs, integrando frontend moder
 - [TailwindCSS](https://tailwindcss.com/) 
 - [Poppins](https://fonts.google.com/specimen/Poppins) 
 - Ícones Lucide
+- cd frontend
+- npm run dev
 
 ### Backend:
 - **Google Apps Script** para integração com Google Sheets (sem servidor próprio)
+- cd backend
+- npm run dev
 
 ---
 
