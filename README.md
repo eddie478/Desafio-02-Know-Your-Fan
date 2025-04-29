@@ -41,6 +41,8 @@ Para rodar o Link só seguir os passos dos Backend e do Frontend
 - npm run dev
 
 ---
+## Site 
+https://desafio-02-know-your-fan.vercel.app
 
 ## 🛠️ Instalação e Execução Local
 
