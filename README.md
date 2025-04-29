@@ -1,5 +1,7 @@
 # Know Your Fan - FURIA eSports 🦊
 
+Feito Por Clayton
+
 Projeto desenvolvido para o desafio **"Know Your Fan"** da FURIA eSports.  
 Essa solução permite coletar informações dos fãs, integrando frontend moderno, Google Sheets para armazenamento e potencial expansão para APIs de redes sociais e IA de validação.
 
@@ -41,3 +43,5 @@ Essa solução permite coletar informações dos fãs, integrando frontend moder
 
 ```bash
 git clone https://github.com/seu-usuario/know-your-fan-furia.git
+
+
